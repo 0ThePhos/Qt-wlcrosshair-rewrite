@@ -6,7 +6,7 @@ A ~300 line crosshair overlay for **KDE Plasma on Wayland**, built against
 Qt6 Gui + KDE's `LayerShellQt`. No GTK, Qt Widgets module, QML,
 XWayland tricks. One source file for one purpose.
 
-It exists because the AUR `wlcrosshair` package places itself at `(0,0)`
+It exists because the AUR `wlcrosshair` package(The first and only one I found when looking for such tool) places itself at `(0,0)`
 instead of the screen center on KWin. See "Why" below for the actual fix,
 not a workaround.
 
