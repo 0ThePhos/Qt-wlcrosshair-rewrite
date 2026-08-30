@@ -160,11 +160,6 @@ output=
 offset_x=0
 offset_y=0
 
-EDIT
-
-If you download the dependencies, you can get this working on different DEs and WMs as long as your compositor implements wlr-layer-shell, question is if you want to pull such dependencies. This tool would mostly work "natively" on KDE Plasma as a compositor with layer-shell support, which in my opinion is good enough. 
-That said, I'm not intending to adapt it for genuine Wayland's all round Qt/GTK2-3 use.
-
 
 NOTES
 
@@ -174,3 +169,9 @@ TLDR; Run "wlcrosshair" to toggle, a single process runs, no daemons, same proce
 Hope it would also help someone out, because I didn't find any lightweight overlay I would wanna use and would work for me so I came up with this, and I like it.
 
 Yet again - made for personal use.
+
+
+EDIT
+
+If you download the dependencies, you can get this working on different DEs and WMs as long as your compositor implements wlr-layer-shell, question is if you want to pull such dependencies. This tool would mostly work "natively" on KDE Plasma as a compositor with layer-shell support, which in my opinion is good enough. 
+That said, I'm not intending to adapt it for genuine Wayland's all round Qt/GTK2-3 use.
