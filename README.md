@@ -1,6 +1,6 @@
 # wlcrosshair
 
-(AI Built)
+[AI Built]
 
 A ~300 line crosshair overlay for **KDE Plasma on Wayland**, built against
 Qt6 Gui + KDE's `LayerShellQt`. No GTK, Qt Widgets module, QML,
