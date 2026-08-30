@@ -123,7 +123,7 @@ different games, point `--image` at the one you want, or set `image=` in
 - HiDPI: the window is sized in logical pixels. On a scaled display,
   either pre-scale your PNG or pass `--scale` to compensate.
 - Needs a compositor implementing `wlr-layer-shell` — KWin has since
-  Plasma 5.27, so any current Arch KDE install qualifies.
+  Plasma 5.27.
 
 ## Files
 
