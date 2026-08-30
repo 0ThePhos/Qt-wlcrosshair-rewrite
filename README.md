@@ -162,7 +162,8 @@ offset_y=0
 
 EDIT
 
-If you download the dependencies, you can get this working on different DEs and WMs as long as your compositor implements wlr-layer-shell, question is if you want to pull such dependencies. This tool would mostly only work "natively" on KDE Plasma, which in my opinion is good enough. That's said, it's unlikely that this tool is going to be adapted for Wayland's all round Qt/GTK2-3 use.
+If you download the dependencies, you can get this working on different DEs and WMs as long as your compositor implements wlr-layer-shell, question is if you want to pull such dependencies. This tool would mostly work "natively" on KDE Plasma as a compositor with layer-shell support, which in my opinion is good enough. 
+That said, I'm not intending to adapt it for genuine Wayland's all round Qt/GTK2-3 use.
 
 
 NOTES
