@@ -160,6 +160,9 @@ output=
 offset_x=0
 offset_y=0
 
+EDIT
+
+If you download the dependencies, you can get this working on different DEs and WMs, question is if you want to pull such dependencies. So said, it's unlikely that this tool is going to be adapted for all round Qt/GTK2-3 use.
 
 
 NOTES
